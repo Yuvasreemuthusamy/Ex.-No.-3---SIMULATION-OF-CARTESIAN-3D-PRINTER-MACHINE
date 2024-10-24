@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No. 5  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -60,8 +60,9 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: YUVA SREE M
+### Register Number: 212223230251
+![Screenshot 2024-10-24 155408](https://github.com/user-attachments/assets/2a481e5a-c0cb-4ad3-a15f-80467aa8aa8a)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
